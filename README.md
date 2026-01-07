@@ -2,7 +2,6 @@ AI-Game-Referee
 
 This project implements a minimal AI Game Referee chatbot for a 3-round game of Rock–Paper–Scissors–Plus.
 The chatbot enforces rules, tracks game state across turns, and ends the game automatically after three rounds.
-
 The solution is built in Python using Google ADK, with explicit use of agents, tools, and structured outputs.
 
 Game Rules: Best of 3 rounds
@@ -60,7 +59,7 @@ Tradeoffs:
 -->Schema validation for tool outputs
 -->Enhanced intent parsing
 
-How to Run
+How to Run: 
 python main.py
 
 Tech Stack:
